@@ -1,3 +1,5 @@
+<img align="left" src="./AutoReload/icon48.png"> 
+
 # AutoReload
 
 AutoReload is a Chrome Extension which automatically keeps refreshing your webpage in the specified interval.
