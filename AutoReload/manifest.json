@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "AutoReload",
+  "version": "0.2",
+  "description": "AutoReolad your tab periodically",
+  "background": {
+    "persistent": true,
+    "scripts": ["js/background.js"]
+  },
+  "permissions": ["contextMenus", "activeTab"],
+  "icons": { 
+  	"16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png" 
+	}
+}
